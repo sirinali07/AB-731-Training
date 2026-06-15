@@ -2,7 +2,7 @@
 
 > **Course:** AB-731 &nbsp;|&nbsp; **Mode:** Instructor-Led / Self-Paced
 
-A practical, step-by-step lab guide for learning Microsoft 365 Copilot across Chat, Word, Excel, and PowerPoint. Each lab includes a goal, steps, a verification checkpoint, and a teaching point.
+A practical, step-by-step lab guide for learning Microsoft 365 Copilot across Chat, Word, Excel, PowerPoint, Outlook, and Teams. Each lab includes a goal, steps, a verification checkpoint, and a teaching point.
 
 ---
 
@@ -15,7 +15,9 @@ A practical, step-by-step lab guide for learning Microsoft 365 Copilot across Ch
 - [Lab 4 — Word: Draft a Business Proposal](#lab-4--word-draft-a-business-proposal)
 - [Lab 5 — PowerPoint: Improve an Existing Deck](#lab-5--powerpoint-improve-an-existing-deck-for-executives)
 - [Lab 6 — Excel: Summarize & Explore a Workbook](#lab-6--excel-summarize--explore-a-workbook)
-- [Lab 7 — Research a Report in Chat](#lab-7--research-a-report-in-chat)
+- [Lab 7 — Outlook: Triage & Draft Email](#lab-7--outlook-triage--draft-email)
+- [Lab 8 — Teams: Meeting Recap & Catch-Up](#lab-8--teams-meeting-recap--catch-up)
+- [Lab 9 — Research a Report in Chat](#lab-9--research-a-report-in-chat)
 - [Wrap-Up](#wrap-up-what-you-practiced)
 
 ---
@@ -25,7 +27,7 @@ A practical, step-by-step lab guide for learning Microsoft 365 Copilot across Ch
 ### Prerequisites
 
 - A Microsoft 365 account with a **Microsoft 365 Copilot license** assigned
-- Microsoft 365 desktop apps installed and signed in (Word, Excel, PowerPoint) — current Microsoft 365 channel
+- Microsoft 365 desktop apps installed and signed in (Word, Excel, PowerPoint, Outlook, Teams) — current Microsoft 365 channel
 - Microsoft 365 Copilot Chat available at **[m365copilot.com](https://m365copilot.com)** or via the Copilot app in Teams
 - A modern browser (Edge or Chrome) signed in with your work account
 
@@ -42,7 +44,7 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 ### Two Ways to Run Copilot (you'll use both)
 
 - **Chat mode** → conversational, grounds on your work data + web, returns text/markdown you copy out.
-- **Agent / in-app** → Copilot built into the app (PowerPoint, Word, Excel) that *acts on the file directly*.
+- **Agent / in-app** → Copilot built into the app (PowerPoint, Word, Excel, Outlook, Teams) that *acts on the content directly*.
 
 ---
 
@@ -156,7 +158,46 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 
 ---
 
-## Lab 7 — Research a Report in Chat
+## Lab 7 — Outlook: Triage & Draft Email
+
+**Goal:** Use Copilot in Outlook to summarize a long thread, draft a reply, and coach your tone.
+
+1. Open **Outlook** (new Outlook or web) and open a **long email thread** (5+ replies).
+2. At the top of the message, click **Summary by Copilot** to get a bulleted recap with cited messages.
+3. Read the summary, then start a reply and choose **Draft with Copilot**:
+   > Draft a reply confirming I'll attend the project kickoff, ask for the agenda in advance, and propose Thursday 2 PM as an alternative if needed. Keep it friendly and concise.
+4. Before sending, use **Coaching by Copilot** on your draft:
+   > Review my draft for tone, clarity, and professionalism, and suggest improvements.
+5. Apply a suggestion and adjust the **tone/length** options Copilot offers (e.g., *Make it more formal / shorter*).
+
+✅ **Checkpoint:** You have a thread summary, a generated reply, and at least one coaching suggestion applied.
+
+💡 **Teaching point:** In Outlook, Copilot does three distinct jobs — **summarize** (read faster), **draft** (write faster), and **coach** (send better). Use the right one for the moment.
+
+---
+
+## Lab 8 — Teams: Meeting Recap & Catch-Up
+
+**Goal:** Use Copilot in Teams to catch up on a meeting and an active chat.
+
+> **Setup note:** Copilot meeting recap requires the meeting to be **recorded and/or transcribed**. For the lab, join or replay a recorded test meeting, or use one from your tenant.
+
+1. Open a recorded meeting in **Teams → Calendar → the meeting → Recap**.
+2. Open **Copilot** in the recap and ask:
+   > Summarize the key decisions and list all action items with their owners.
+3. Follow up to focus on yourself:
+   > What was said about me or assigned to me? Did I have any open questions?
+4. Switch to a busy **Teams chat or channel** you missed, open **Copilot**, and ask:
+   > Catch me up on this conversation since yesterday and highlight anything that needs my response.
+5. (Optional) During a **live meeting**, open Copilot and ask *"What are the main points so far?"* without interrupting.
+
+✅ **Checkpoint:** You get decisions, owner-assigned action items, a personalized "what's mine," and a chat catch-up.
+
+💡 **Teaching point:** Copilot in Teams turns hours of meetings and chat backlog into **decisions, action items, and your personal follow-ups** — but only when content is transcribed/available.
+
+---
+
+## Lab 9 — Research a Report in Chat
 
 **Goal:** Use Copilot Chat (Web mode) to draft a research-based report.
 
@@ -183,7 +224,9 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 | 4 | Word | Structured document drafting |
 | 5 | PowerPoint | Refining existing content |
 | 6 | Excel | Data summary & guided analysis |
-| 7 | Chat | Research with citations |
+| 7 | Outlook | Summarize, draft & coach email |
+| 8 | Teams | Meeting recap & chat catch-up |
+| 9 | Chat | Research with citations |
 
 ### Key Takeaways
 
