@@ -2,7 +2,7 @@
 
 > **Course:** AB-731 &nbsp;|&nbsp; **Mode:** Instructor-Led / Self-Paced
 
-A practical, step-by-step lab guide for learning Microsoft 365 Copilot across Chat, Word, Excel, PowerPoint, Outlook, and Teams. Each lab includes a goal, steps, a verification checkpoint, and a teaching point.
+A practical, step-by-step lab guide for learning Microsoft 365 Copilot across Chat, Word, Excel, PowerPoint, Outlook, and Teams. Each lab includes a goal, steps, a verification checkpoint, and a Note.
 
 ---
 
@@ -74,7 +74,7 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 
 ✅ **Checkpoint:** You have a 5–6 slide outline as text.
 
-💡 **Teaching point:** Chat *plans and drafts* content; it does not build the file. That's the job of Lab 3.
+💡 **Note:** Chat *plans and drafts* content; it does not build the file. That's the job of Lab 3.
 
 ---
 
@@ -96,7 +96,7 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 | Acts on file | No | Yes |
 | Best for | Planning, ideation | Building the deliverable |
 
-💡 **Teaching point:** Same prompt, very different result — *where* you run Copilot matters as much as *what* you ask.
+💡 **Note:** Same prompt, very different result — *where* you run Copilot matters as much as *what* you ask.
 
 ---
 
@@ -120,7 +120,7 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 
 ✅ **Checkpoint:** A proposal with all four sections and a risk table.
 
-💡 **Teaching point:** Naming the exact sections forces structure — vague prompts give vague documents.
+💡 **Note:** Naming the exact sections forces structure — vague prompts give vague documents.
 
 ---
 
@@ -137,7 +137,7 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 
 ✅ **Checkpoint:** Deck has executive-ready slides **and** speaker notes.
 
-💡 **Teaching point:** Copilot is as useful for *editing existing content* as for creating new content.
+💡 **Note:** Copilot is as useful for *editing existing content* as for creating new content.
 
 ---
 
@@ -154,7 +154,7 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 
 ✅ **Checkpoint:** You get a quick summary, insights, and 3 guiding questions.
 
-💡 **Teaching point:** Asking Copilot to *ask you questions* turns it into an analysis partner, not just a generator.
+💡 **Note:** Asking Copilot to *ask you questions* turns it into an analysis partner, not just a generator.
 
 ---
 
@@ -172,7 +172,7 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 
 ✅ **Checkpoint:** You have a thread summary, a generated reply, and at least one coaching suggestion applied.
 
-💡 **Teaching point:** In Outlook, Copilot does three distinct jobs — **summarize** (read faster), **draft** (write faster), and **coach** (send better). Use the right one for the moment.
+💡 **Note:** In Outlook, Copilot does three distinct jobs — **summarize** (read faster), **draft** (write faster), and **coach** (send better). Use the right one for the moment.
 
 ---
 
@@ -193,7 +193,7 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 
 ✅ **Checkpoint:** You get decisions, owner-assigned action items, a personalized "what's mine," and a chat catch-up.
 
-💡 **Teaching point:** Copilot in Teams turns hours of meetings and chat backlog into **decisions, action items, and your personal follow-ups** — but only when content is transcribed/available.
+💡 **Note:** Copilot in Teams turns hours of meetings and chat backlog into **decisions, action items, and your personal follow-ups** — but only when content is transcribed/available.
 
 ---
 
@@ -210,7 +210,7 @@ Every good Copilot prompt has three parts. Keep this in mind for each lab:
 
 ✅ **Checkpoint:** A cited, well-structured report.
 
-💡 **Teaching point:** Use **Web** mode for current external info; use **Work** mode for tenant/company data. Always verify citations.
+💡 **Note:** Use **Web** mode for current external info; use **Work** mode for tenant/company data. Always verify citations.
 
 ---
 
