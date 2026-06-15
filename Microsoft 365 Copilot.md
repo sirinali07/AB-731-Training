@@ -1,6 +1,6 @@
 # Microsoft 365 Copilot — Hands-On Lab Guide
 
-> **Course:** AB-731 &nbsp;|&nbsp; **Mode:** Instructor-Led / Self-Paced
+> **Course:** AB-731 &nbsp;|&nbsp; **Mode:** Self-Paced
 
 A practical, step-by-step lab guide for learning Microsoft 365 Copilot across Chat, Word, Excel, PowerPoint, Outlook, and Teams. Each lab includes a goal, steps, a verification checkpoint, and a Note.
 
