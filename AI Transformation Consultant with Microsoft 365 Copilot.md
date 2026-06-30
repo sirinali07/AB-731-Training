@@ -219,8 +219,16 @@ Why do executives prefer concise presentations?
 ## Objective
 
 Use Excel Copilot to identify business opportunities.
+## 📥 Step 1: Download the Dataset
 
-## Steps
+1. Open the dataset link in your browser:
+```
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsirinali07%2FAB---730-Training-%2Frefs%2Fheads%2Fmain%2FSales.xlsx  
+```
+2. In the top menu, click **Download**  
+3. Save the file as **Sales.xlsx** on your computer
+   
+## Steps 2:
 
 1. Open the provided Sales Dataset.
 2. Launch Copilot in Excel.
@@ -252,7 +260,7 @@ Participants receive:
 Ask Copilot:
 
 ```text
-Which departments would benefit most from Microsoft 365 Copilot based on this data?
+Which departments would benefit most based on this data?
 ```
 
 ---
